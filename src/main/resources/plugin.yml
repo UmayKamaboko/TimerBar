@@ -1,0 +1,6 @@
+name: Timer
+version: '${project.version}'
+main: me.anyachan.timer.timer.Timer
+
+commands :
+  timer:
